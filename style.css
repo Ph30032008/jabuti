@@ -6,6 +6,11 @@ text-align: center;
 }
 
 body{
-
+display: flex;
     background-color: rgb(113, 113, 226);
+}
+
+img{
+    width: 300px;
+    height: auto;
 }
