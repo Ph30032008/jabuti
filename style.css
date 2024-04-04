@@ -24,24 +24,24 @@ body {
         font-family: Arial, sans-serif;
         margin: 0;
         padding: 0;
-        background-color: #f4f4f4;
+        background-color: #0065fd;
         text-align: center;
     }
     header {
         background-color: #333;
-        color: #fff;
+        color: #2f00ff;
         padding: 20px;
         text-align: center;
     }
     nav {
         background-color: #444;
-        color: #fff;
+        color: #6f00ff;
         padding: 10px;
         text-align: center;
     }
     nav a {
         text-decoration: none;
-        color: #fff;
+        color: #4400ff;
         margin: 0 10px;
         text-align: center;
     }
@@ -52,12 +52,12 @@ body {
     section {
         padding: 20px;
         margin: 20px;
-        background-color: #fff;
+        background-color: #0077ff;
         text-align: center;
     }
     footer {
         background-color: #333;
-        color: #fff;
+        color: #0d1cf7;
         text-align: center;
         padding: 10px;
         position: fixed;
@@ -66,7 +66,7 @@ body {
 
 header {
     background-color: #333;
-    color: #fff;
+    color: #200dca;
     padding: 20px;
     text-align: center;
 }
