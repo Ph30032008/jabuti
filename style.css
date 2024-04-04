@@ -15,7 +15,7 @@ img{
 }
 
 body {
-    font-family: Arial, sa  body {
+    
         font-family: Arial, sans-serif;
         margin: 0;
         padding: 0;
@@ -58,12 +58,7 @@ body {
         position: fixed;
         bottom: 0;
         width: 100%;
-    }ns-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-    text-align: center;
-}
+
 header {
     background-color: #333;
     color: #fff;
