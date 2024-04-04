@@ -28,13 +28,13 @@ body {
         text-align: center;
     }
     header {
-        background-color: #333;
+        background-color: #ff0000;
         color: #2f00ff;
         padding: 20px;
         text-align: center;
     }
     nav {
-        background-color: #444;
+        background-color: #ff0000;
         color: #6f00ff;
         padding: 10px;
         text-align: center;
@@ -56,7 +56,7 @@ body {
         text-align: center;
     }
     footer {
-        background-color: #333;
+        background-color: #ff0000;
         color: #0d1cf7;
         text-align: center;
         padding: 10px;
@@ -71,14 +71,14 @@ header {
     text-align: center;
 }
 nav {
-    background-color: #444;
-    color: #fff;
+    background-color: #ff0000;
+    color: #1000f7;
     padding: 10px;
     text-align: center;
 }
 nav a {
     text-decoration: none;
-    color: #fff;
+    color: #2600ff;
     margin: 0 10px;
     text-align: center;
 }
@@ -89,12 +89,12 @@ nav a:hover {
 section {
     padding: 20px;
     margin: 20px;
-    background-color: #fff;
+    background-color: #2600ff;
     text-align: center;
 }
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #ff0000;
+    color: #430fff;
     text-align: center;
     padding: 10px;
     position: fixed;
