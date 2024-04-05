@@ -1,6 +1,9 @@
 
 .conquistas{
     display: flex;
+    align-items: last baseline;
+    justify-content: baseline;
+    flex-direction: row;
 
 }
 
